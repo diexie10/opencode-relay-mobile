@@ -1,3 +1,5 @@
+> **已归档**：这个仓库是精简发布版，已停止维护。代码与全部开发文档已合并到 **[diexie10/opencode-relay](https://github.com/diexie10/opencode-relay)**，请到那边查看最新版本。
+
 # OpenCode Relay
 
 > 把桌面的 [opencode](https://opencode.ai) 变成手机上的聊天界面 —— 一个做着玩的项目。
